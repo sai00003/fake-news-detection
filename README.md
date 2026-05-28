@@ -18,7 +18,6 @@ fake-news-detection/
 
 ## Dataset
 
-**Source:** [lutzhamel/fake-news on GitHub](https://github.com/lutzhamel/fake-news)  
 **Size:** 6335 articles — 3171 REAL, 3164 FAKE  
 **Columns:** `id`, `title`, `text`, `label`
 
