@@ -12,7 +12,6 @@ fake-news-detection/
 │   ├── logistic_model.pkl          # Saved trained model
 │   └── tfidf_vectorizer.pkl        # Saved TF-IDF vectorizer
 ├── fake_news_detector.py           # Main script
-├── requirements.txt
 └── README.md
 ```
 
@@ -28,11 +27,6 @@ fake-news-detection/
 - **Pandas** — data loading and preprocessing
 - **Pickle** — model serialization
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Run
 
